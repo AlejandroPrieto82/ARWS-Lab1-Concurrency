@@ -1,4 +1,3 @@
-
 package eci.edu.arsw.threads;
 
 public class CountThreadsMain {

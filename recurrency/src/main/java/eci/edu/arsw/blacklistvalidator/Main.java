@@ -1,17 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package eci.edu.arsw.blacklistvalidator;
-
 import java.util.List;
 
-/**
- *
- * @author hcadavid
- */
-public class Main {
+class Main {
     
     public static void main(String a[]){
         HostBlackListsValidator hblv=new HostBlackListsValidator();
